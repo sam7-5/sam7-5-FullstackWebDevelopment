@@ -1,0 +1,30 @@
+
+  
+  p{
+    display: block;
+    text-align: left;
+  }
+  html {
+    box-sizing: border-box;
+  }
+  
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+
+  .button:hover {
+    background-color: #555;
+  }
+  
+  @media screen and (max-width: 650px) {
+    .column_a {
+      width: 100%;
+      display: block;
+      
+    }
+    
+  }
+  
+
+  
