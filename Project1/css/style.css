@@ -5,7 +5,7 @@ body {
     background: #fff;
     color: #848484;
     font-weight: 300;
-    overflow-x: hidden;
+    overflow-x: hidden; /*clip the content and no scrolling mechanism is provided horizontally(x)*/
 }
 /* nav bar */
 a {
